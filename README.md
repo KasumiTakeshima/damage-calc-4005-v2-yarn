@@ -1,6 +1,6 @@
     assert.equal(dc.effectiveDamage(500,100,800), 500)1
 # damage-calc
-[![Circle CI](https://circleci.com/gh/KasumiTakeshima/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/Soichiro
+[![CircleCI](https://circleci.com/gh/KasumiTakeshima/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/KasumiTakeshima/damage-calc-4005-v2-yarn)
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
